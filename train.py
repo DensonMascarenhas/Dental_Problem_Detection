@@ -175,7 +175,7 @@ history = model.fit(
   train_x,
   train_y,
   validation_data=(val_x,val_y),
-  epochs=50,
+  epochs=100,
   callbacks=[early_stop],
   batch_size=32,shuffle=True)
 
