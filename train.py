@@ -12,9 +12,9 @@ import cv2
 import matplotlib.pyplot as plt
 
 
-train_path="dics/training"
-test_path="dics/testing"
-val_path="dics/Validation"
+train_path="Img/Training"
+test_path="Img/Testing"
+val_path="Img/Validation"
 
 x_train=[]
 
